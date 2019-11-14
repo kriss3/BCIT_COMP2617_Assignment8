@@ -13,7 +13,7 @@ private:
 	double img;
 
 public:
-	Complex(double real=1.0, double img=0.0); // default ctor
+	Complex(double real=1.0, double img=0.0); // default constructor taking default values;
 
 	double getReal() const;
 	void setReal(const double &real);
