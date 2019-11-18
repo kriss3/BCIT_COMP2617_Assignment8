@@ -144,6 +144,9 @@
   <ItemGroup>
     <ClInclude Include="Complex.h" />
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="A01013054_Szczurowski_Assign08\Test_Output.txt" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

@@ -1,0 +1,28 @@
+The default object is: (1.0000 , 0.0000)
+
+The non-default object is: (-2.4500 , 1.0000)
+
+The second non-default object is: (25.7770 , -35.6680)
+
+After testing conversion ctor, C is: (1.0000 , 0.0000)
+
+- Test plusEq()
+A = (-25.4400 , -3.5430)
+B = (30.3000 , -34.8760)
+
+A = (4.8600 , -38.4190)
+B = (30.3000 , -34.8760)
+C = (4.8600 , -38.4190)
+
+- Test minusEq()
+A = (4.6500 , 3.7890)
+B = (6.7800 , 9.2220)
+
+A = (-2.1300 , -5.4330)
+B = (6.7800 , 9.2220)
+C = (-2.1300 , -5.4330)
+
+
+C:\Users\TEST\OneDrive\BCIT\2617_Semester_9\Assignments\Assignment08\Assignment08\Debug\Assignment08.exe (process 19420) exited with code 0.
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .
